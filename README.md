@@ -1,7 +1,7 @@
 # Welcome to my Github profile❕
-This is my github and here you will find all my public repositories that i share with the cummunity and all my activity on github.
+This is my github and here you will find all my public repositories that i've shared with the cummunity and all my activity on github.
 ## About me 👨‍💻
-My name is Fábio ![follow](https://img.shields.io/github/followers/fawbioferreira.svg?style=social&label=Follow&maxAge=2592000). I'm a Full-stack web developer working actually with **Angular** , **Nest.js** & **Ionic** since July/2020. I'm always trying to learn new things that will enhance my carreer and knoledge.
+My name is Fábio ![follow](https://img.shields.io/github/followers/fawbioferreira.svg?style=social&label=Follow&maxAge=2592000). I'm a Full-stack web developer working actually with **Angular** , **Nest.js** & **Ionic** since July/2020. I'm always trying to learn new things that will enhance my carreer and knowledge.
 
  - I live in São Paulo, Brazil 🌍
  - Computer Science graduated since 2019 🏫

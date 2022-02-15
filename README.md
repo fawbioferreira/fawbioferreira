@@ -5,7 +5,7 @@ My name is Fábio ![follow](https://img.shields.io/github/followers/fawbioferrei
 
  - I live in São Paulo, Brazil 🌍
  - Computer Science graduated since 2019 🏫
- - Working from home to a company called Finger Marketing Digital 💼
+ - Working from home to a company called B4A(https://b4a.com.br) 💼
  - Always open to new job opportunities 🤝
 
 ### Tecnologies 
